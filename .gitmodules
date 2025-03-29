@@ -1,0 +1,3 @@
+[submodule "SchoolModel"]
+	path = SchoolModel
+	url = https://github.com/DonaldOgbe/SchoolModel.git
