@@ -1,6 +1,6 @@
-[submodule "SchoolModel"]
-	path = SchoolModel
-	url = https://github.com/DonaldOgbe/SchoolModel.git
 [submodule "Files-I-O-Application"]
 	path = Files-I-O-Application
 	url = https://github.com/DonaldOgbe/Files-I-O-Application.git
+[submodule "SchoolModel"]
+	path = SchoolModel
+	url = https://github.com/DonaldOgbe/SchoolModel.git
