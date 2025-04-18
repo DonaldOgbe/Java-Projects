@@ -4,3 +4,6 @@
 [submodule "SchoolModel"]
 	path = SchoolModel
 	url = https://github.com/DonaldOgbe/SchoolModel.git
+[submodule "Library-System"]
+	path = Library-System
+	url = https://github.com/DonaldOgbe/Library-System.git
